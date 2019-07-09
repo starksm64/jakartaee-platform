@@ -1,0 +1,7 @@
+include::Introduction.adoc[]
+
+include::WebProfileDefinition.adoc[]
+
+include::RevisionHistory.adoc[]
+
+include::RelatedDocuments.adoc[]
